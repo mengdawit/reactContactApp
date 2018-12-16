@@ -24,19 +24,19 @@ export class Provider extends Component {
 		contacts: [
 			{
 				id: 1,
-				name: 'Simon Dawit',
+				name: 'Simon',
 				email: 'simona@yahoo.com',
 				phone: '333-333-3333'
 			},
 			{
 				id: 2,
-				name: 'Yohana Dawit',
+				name: 'Yohana',
 				email: 'yoki@yahoo.com',
 				phone: '555-555-5555'
 			},
 			{
 				id: 3,
-				name: 'Enyat Tsehgaye',
+				name: 'Enyat',
 				email: 'holyenyat@yahoo.com',
 				phone: '444-444-4444'
 			}
